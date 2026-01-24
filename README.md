@@ -56,7 +56,7 @@ I continuously explore:
 ## 📬 Connect with Me
 
 - **GitHub:** [github.com/Foyjul-Islam-Raju](https://github.com/Foyjul-Islam-Raju)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **LinkedIn:** [https://www.linkedin.com/in/foyjul-islam-raju-043a24200/](https://www.linkedin.com/in/foyjul-islam-raju-043a24200/)  
 - **Email:** raju.ju.cse@gmail.com  
 
 ---
