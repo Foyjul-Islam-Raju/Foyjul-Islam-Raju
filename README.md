@@ -13,7 +13,7 @@ React.js, HTML5, CSS3, JavaScript
 Python, Django, Django REST Framework  
 
 **Database:**  
-SQLite | PostgreSQL | MySQL  
+SQLite | MySQL  
 
 **Tools & Concepts:**  
 RESTful APIs, Git & GitHub, Data Structures & Algorithms, Competitive Programming, Basic Machine Learning & AI  
