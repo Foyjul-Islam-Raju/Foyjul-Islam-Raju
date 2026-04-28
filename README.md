@@ -1,4 +1,4 @@
-# 🚀 Foyjul Islam Raju – Full-Stack Developer & Researcher
+# 🚀 Foyjul Islam Raju – Developer || SQA || Researcher || Quick Solver
 
 Hi there! I'm **Foyjul Islam Raju**, a full-stack web application developer and researcher with a passion for clean architecture, scalable software development, and problem-solving. I specialize in building **end-to-end web solutions** while maintaining clean, maintainable, and efficient code.
 
